@@ -1,0 +1,1 @@
+SELECT rental_duration, rental_duration + 5 FROM film;

@@ -1,0 +1,3 @@
+-- OPERADOR IN
+SELECT * FROM film
+WHERE length IN(60, 90, 120);

@@ -1,0 +1,22 @@
+### Introdução em Banco de dados:
+
+O banco de dados é uma entidade utilizada para gerenciar dados de uma aplicação;
+
+Nos DBs temos as tabelas, que são responsáveis por categorizar os dados;
+
+Além disso, temos outros elementos importantes, como: queries, views, stored procedures e mais;
+
+Um DB bem modelado representa também o sucesso da aplicação.
+
+
+### Principais tipos de DBs:
+
+Relacional: o que iremos utilizar, e é o mais comum nas aplicações (MySQL, SQLite, Postegress, SQL Server...);
+
+NoSQL: DBs não relacionais, baseado em documentos (MongoDB);
+
+Object Database: DB orientado a objetos, integrado nas aplicações (ObjectBox);
+
+Cloud Database: Este DB fica em servidores cloud e tem alta escalabilidade, podemos utilizar SQL ou NoSQL;
+
+### Nos próximos exercícios usaremos o banco de dados SAKILA.
